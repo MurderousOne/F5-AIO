@@ -12,11 +12,3 @@
 ### Donate to the creators
 * Donate to Merik with [card](https://www.buymeacoffee.com/merika)
 * Donate to Ethan with [card](https://www.buymeacoffee.com/Yeethan69) or [PayPal](https://www.paypal.com/donate?hosted_button_id=DACQKRJ4HTZRN)
-
-### Other information
-* [Discord](https://discord.gg/2szBrzRTH9)
-* [Screenshots](https://imgur.com/a/rSMKS7r)
-* [Downloads](https://github.com/Yeethan69/AIO/releases/)
-* [Source Code Respository](https://github.com/ForzaMods/Forza-Mods-AIO)
-* [Current/Planned feature list](https://trello.com/b/jXY01dbN/forza-mods-aio)
-* [UnknownCheats Post](https://www.unknowncheats.me/forum/other-games/415227-fh4-speed-hack.html)
